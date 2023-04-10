@@ -5,7 +5,7 @@
 - 💻 I'm a programmer and coding tutor with 12 years of academic experience in coding with different programming languages as well as teaching them to undergraduate students
 - 👯 I’m looking forward to transitioning into a career in the tech space focusing on Machine learning algorithms, data science, and developing commercial software 
 - 💻 Programming Skills: Python - C/C++ - Matlab - OOP - GUI - ML
-- 📫 You can reach me on [LinkedIn](https://linkedin.com/in/mtarabkhah) or via [Email](mailto:m.tarabkhah@gmail.com)
+- 📫 You can reach me on [LinkedIn](https://linkedin.com/in/mtarabkhah) or via [m.tarabkhah@gmail.com](mailto:m.tarabkhah@gmail.com)
 
 
 <!--
