@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 - 👨‍💻 I'm Meisam
-- 🔭 I’m currently building my portfoilio
-- 💻 I'm a programmer and coding tutor with 12 years of academic experience in coding with different programming languages as well as teaching them to undergraduate students
-- 👯 I’m looking forward to transitioning into a career in the tech space focusing on Machine learning algorithms, data science, and developing commercial software 
-- 💻 Programming Skills: Python - C/C++ - Matlab - OOP - GUI - ML
+- 👨‍🎓 I’m a PhD Candidate in Computer Science | ICSA @ University of Edinburgh
+- 🔎 My PhD focuses on generating high-performance code through a compiler and a domain-specific language
+- 💻 I've been a programmer and coding tutor with 12 years of academic experience in coding with different programming languages as well as teaching them to undergraduate students
+- 💻 Programming Skills: Scala - Python - C/C++ - Matlab - OOP - GUI - ML
 - 📫 You can reach me on [LinkedIn](https://linkedin.com/in/mtarabkhah) or via [m.tarabkhah@gmail.com](mailto:m.tarabkhah@gmail.com)
 
 
